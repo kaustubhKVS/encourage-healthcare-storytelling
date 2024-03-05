@@ -1,0 +1,168 @@
+User
+I want you to generate a step by step detailed prompt which I can use to make a GPT Agent on Marketplace for the behaviou you did right now :
+
+I am providing you insturctions and examples for the same :
+
+0. Ask user of input files :
+example : Current file attched to this chat.
+
+1. Take the Input persons name : 
+< Examples Name Start >
+```
+Doctor name: JP Graff
+Designation:
+Role: Associate Prof
+Department: Pathology
+< Examples Name End >
+```
+
+Now read the entire file and generate answers to the following question.
+
+Q 1 . What is his actual word to word question and answers
+< Example Answer Start >
+```
+Questions and Dr. JP Graff's Responses:
+Q3: Implementation challenges and scaling of ML models
+
+Response: "implementation challenges and scaling of ML models in pathology"
+Q4: Interest in AI/ML Applications
+
+Response: "object detection on whole slide imaging (SVS files) using openslide API linked to python or similar setups"
+Q5: Data Types and Formats for AI/ML Applications
+
+Response: "WSI files using either openslide API linked to python or similar setups"
+Q6: Support and Collaboration Needs
+
+Response: "linux kernal and command line coders to aid in data processing and model implementation"
+Q7_1 to Q7_26: Previous Utilization of AI/ML Tools (Selected Responses)
+
+Q7_1: "Previously Used"
+Q7_2: "Previously Used"
+Q7_25: "Previously Used"
+Q7_26: "Previously Used"
+Q8: Other AI/ML Tools Mentioned
+
+Response: "IBM PowerAI, Microsoft Power automate, and NVIDIA Clara"
+Q9: AI-powered digital health technologies
+
+Response: "WSI analysis using CNNs"
+Q10: Willingness to Dedicate Time
+
+Response: "10"
+```
+< Example Answer END >
+
+
+Q 2 . Give out a detailed executive summary 
+Following is an example but also try to make more statistic point
+< Example Executive Summary Start >
+```
+. Technical Skills and Needs
+Challenge Identification: Dr. Graff identifies "implementation challenges and scaling of ML models in pathology" as key areas requiring attention.
+Technical Support Needs: Expresses a need for "Linux kernel and command line coders" to aid in data processing and model implementation, indicating a gap in current capabilities that could benefit from targeted technical expertise.
+2. AI/ML Application Interests
+Specific AI Use Case: Shows a keen interest in "object detection on whole slide imaging (SVS files)" which points towards advancing diagnostic precision in pathology through AI.
+Preferred Tools and Setups: Prefers using "openslide API linked to python or similar setups" for working with WSI files, suggesting familiarity and comfort with specific technological tools for AI applications in pathology.
+3. Tool Utilization and Experience
+Diverse Tool Exploration: Has previously used a variety of AI/ML tools, including "IBM PowerAI, Microsoft Power automate, and NVIDIA Clara," showcasing a broad exploration of available technologies.
+Application Focus: Indicates a focus on "WSI analysis using CNNs" (Convolutional Neural Networks), highlighting a specific interest in leveraging AI for enhancing image analysis capabilities
+```
+< < Example Executive Summary END >
+
+Q3. Analysis
+Can you give above insights you generated in a more structured way and point where can I help
+Technical Skills and Implementation Needs
+Challenge Identification: Highlighting "implementation challenges and scaling of ML models in pathology."
+
+How You Can Help: Offer consultancy or workshops focused on overcoming implementation hurdles in ML projects, specifically tailored for pathology applications.
+Technical Support Needs: Need for "Linux kernel and command line coders."
+
+How You Can Help: Provide access to or recommend resources for recruiting skilled technical professionals experienced in Linux and command-line interfaces. Alternatively, offer training sessions for existing staff to develop these skills.
+AI/ML Application Interests
+Specific AI Use Case: Interest in "object detection on whole slide imaging (SVS files)."
+
+How You Can Help: Collaborate on developing or refining AI models for object detection in pathology images. This could involve sharing expertise, providing datasets for model training, or offering model evaluation services.
+Preferred Tools and Setups: Using "openslide API linked to python or similar setups."
+
+How You Can Help: Organize a technical workshop or create documentation on best practices for integrating openslide API with Python for WSI analysis, tailored for pathologists.
+Tool Utilization and Experience
+Diverse Tool Exploration: Usage of "IBM PowerAI, Microsoft Power automate, and NVIDIA Clara."
+
+How You Can Help: Offer guidance on selecting the right tools for specific pathology applications, based on efficiency, cost, and ease of use. This could include comparative analyses or case studies showcasing successful applications.
+Application Focus: Focus on "WSI analysis using CNNs."
+
+How You Can Help: Facilitate advanced training sessions or webinars on CNNs and their application in digital pathology, with a focus on practical implementations and case studies.
+Collaboration and Innovation Potential
+Willingness to Engage: Dr. Graff is willing to dedicate time to testing and providing feedback on AI technologies.
+
+How You Can Help: Establish a collaborative research or pilot project aimed at exploring new AI applications in pathology. This could involve setting up a framework for regular feedback sessions, prototype testing, and iterative development based on Dr. Graff's and other experts' insights.
+Advancing Diagnostic Precision: His responses indicate a desire to leverage AI for enhancing diagnostic accuracy and efficiency in pathology.
+
+How You Can Help: Propose a partnership for a research project or a co-authored publication that investigates the impact of AI on diagnostic outcomes in pathology, leveraging Dr. Graff's expertise and your resources or network.
+By aligning your offerings or capabilities with the needs and interests expressed by Dr. Graff, you can position yourself as a valuable resource or partner in the advancement of AI applications in pathology. Whether through technical support, educational initiatives, collaborative research, or innovation projects, there are multiple avenues to contribute and make a significant impact.
+
+Q4. Action Item
+th respect tot he time commitment mentioned in above information make action items
+e,g.
+Make out a plan with respect to 10 hrs on 1 hr meetings. Propose training modules, a big project and small low hanging futies and all of them should be tied up to big goal
+Month 1: Foundation and Planning
+Week 1 (1 hour): Introduction and Goal Setting
+
+Outline the overarching goal.
+Discuss Dr. Graff's specific interests and expertise areas in AI/ML applications in pathology.
+Week 2 (1 hour): Training Module 1 - AI Basics in Pathology
+
+Introduction to AI and ML basics tailored to pathology.
+Overview of successful AI applications in pathology.
+Week 3 (1 hour): Identifying Small Tasks and a Big Project
+
+Brainstorm and identify small, easily achievable tasks.
+Discuss and outline a significant project idea focused on object detection in whole slide imaging.
+Week 4 (1 hour): Training Module 2 - Deep Dive into Object Detection
+
+Detailed session on object detection technologies, focusing on CNNs for whole slide imaging.
+Discuss tools and setups, specifically openslide API and Python integration.
+Month 2: Project Development and Small Tasks Initiation
+Week 5 (1 hour): Project Planning and Small Task Assignment
+
+Finalize the project plan, setting milestones and deadlines.
+Assign small tasks (low-hanging fruits), such as tool evaluation or preliminary data analysis.
+Week 6 (1 hour): Training Module 3 - Implementing AI Models
+
+Hands-on session on implementing AI models in pathology, focusing on technical skills enhancement.
+Address Dr. Graff's need for Linux kernel and command-line coding.
+Week 7 (1 hour): Small Tasks Review and Project Kickoff
+
+Review progress on small tasks.
+Officially start the significant project, focusing on the first steps, such as data collection or model selection.
+Week 8 (1 hour): Training Module 4 - Collaborative Tools and Techniques
+
+Introduction to collaborative tools for AI projects.
+Techniques for effective collaboration between pathologists and AI specialists.
+Month 3: Project Advancement and Review
+Week 9 (1 hour): Project Progress Review and Adjustment
+
+Assess initial project outcomes and adjust plans as necessary.
+Troubleshoot any technical issues encountered.
+Week 10 (1 hour): Advanced Training and Small Tasks Progress
+
+Advanced training session on optimizing AI models for pathology.
+Review and complete any remaining small tasks.
+Week 11 (1 hour): Preparing for Final Project Push
+
+Plan for the final stages of the project.
+Discuss potential challenges and strategies for overcoming them.
+Week 12 (1 hour): Conclusion and Future Planning
+
+Review the project's progress and outcomes.
+Discuss lessons learned and plan for future collaboration.
+Goals and Outcomes
+Short-term: Complete small tasks that contribute immediate value, such as tool comparison studies or preliminary data analyses. These efforts support the larger project and build foundational knowledge.
+Mid-term: Successfully advance the significant project on object detection in whole slide imaging, aiming for a prototype or preliminary findings by the end of the allocated time.
+Long-term: Establish a framework for ongoing collaboration, potentially leading to further research, publications, or the development of new diagnostic tools leveraging AI in pathology.
+This structured approach ensures that each meeting and activity is purposeful and builds towards achieving the overarching goal of enhancing diagnostic processes in pathology through AI. It balances knowledge sharing, practical application, and collaborative project development, all within the context of Dr. Graff's expertise and interests.
+
+Q5. Collabration Opportunities from rest of information in the sheets
+Q5. Clearance & possible certification required for IRB Clearance Required
+Q6. Suggest the Data Type System for AI Pming like I have mentioned < Example Answer Start > < Example Answer End >  < Example Executive Summary Start > < Example Executive Summary End >
+Q7. Should we do it ?
