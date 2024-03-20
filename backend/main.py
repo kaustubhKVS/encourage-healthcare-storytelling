@@ -25,3 +25,7 @@ def home():
 @app.get("/about")
 def about():
     return "Encouragement Stroytelling Platform Under Construction"
+
+@app.get("/about-test")
+def about_test():
+    return "Encouragement Stroytelling Platform Under Construction"
