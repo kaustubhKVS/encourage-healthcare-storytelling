@@ -1,0 +1,60 @@
+ACTIONS,,,,,,,,,,FRONTEND
+,,,,,,,,,,
+LOGIN,,,,,,,,,,
+SCENARIO SELECTION,,,,,,,,,,
+SCENARIO SIMULATION,,,,,,,,,,
+SCORING SYSTEM,,,,,,,,,,
+FEEDBACK & LEARNING,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+MODULE BREAKDOWN,,,,,,,,,,
+,FRONTEND,,,,,,,,,
+LOGIN,,,,,,,,,,
+,,,,,,,,,,
+,"Step 1: Welcome & User Data Collection
+Game Introduction:
+Welcome to the Medical Scenario Challenge! This interactive game is designed for medical students like you to test and enhance your decision-making skills in various medical emergencies and situations.
+User Data Input:
+Please enter your name, department, and year of study to personalize your experience. 
+","NAME, Medical Study Year ( Optional ), Specialiation, Rotations : Cardio etc",VOICE / TEXT,,,,,,,
+,,Unique ID,,,,,,,,
+,,,,,,,,,,
+SCENARIO SELECTION,,,,,,,,,,
+,,,,,,,,,,
+Attached Files : For each Scenario1) What to DO ? 2) What to NOT DO ? 3) CDC-Guidelines : https://www.cdc.gov/vaccines/hcp/acip-recs/general-recs/downloads/general-recs.pdf,"Step 2: Scenario Selection
+Scenario Overview:
+Thank you for providing your details. Now, select one of the following scenarios to begin your challenge:
+Patient Zero: Navigate the complexities of identifying and managing the initial case in an outbreak.
+Power Failure: Manage patient care and hospital operations during an unexpected power outage.
+Fire Breakout: Ensure patient and staff safety during a fire emergency within the hospital.
+Language Barrier: Overcome communication obstacles with a patient who speaks a different language.
+Selection Input: 
+Please choose your scenario to start the simulation. 
+",,,,,,,,,
+,,Unique ID for each scenario and each document,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+SCENARIO SIMULATION,,,,,,,,,,
+,,,,,,,,,,
+,"Step 3: Scenario Simulation & Image Generation
+Scenario Development:
+Based on the selected scenario, a detailed story will be generated to immerse you in a realistic situation that you might face as a medical professional. There will be multiple characters involved and make sure to give them a name and designation.
+Dall-E Image Generation:
+A high-quality image representing the chosen scenario will be generated to enhance visual engagement and context understanding.
+Decision Points:
+Throughout the story, you will face multiple choice questions that test your judgment and knowledge on the best course of action. Along with this paint a picture of the environment surrounding the player. 
+",,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,SPACES : ,,,,,,,,,
+,Devices,,,,,,,,,
+,Physical Environment,,,,,,,,,
+,Style,,,,,,,,,
+,Ordering,,,,,,,,,
+,Length of Time,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,PLOT,,,,,,,,,
